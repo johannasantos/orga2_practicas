@@ -32,13 +32,10 @@ int main() {
 
     printf("char(%lu): %d \n", sizeof(ocho), ocho);
     printf("short(%lu): %d \n", sizeof(diecises), diecises);
-    printf("int(%lu): %d \n", sizeof(i), i);
-    printf("long(%lu): %ld \n", sizeof(1), 1);
-    printf("long(%lu): %ld \n", sizeof(un), un);
-    printf("long(%lu): %ld \n", sizeof(lon), lon);
-    printf("long(%lu): %ld \n", sizeof(u), u);
-
-
-
-
+    printf("int(%lu): %d \n", sizeof(treintaydos), treintaydos);
+    printf("long(%lu): %ld \n", sizeof(sesentaycuatro), sesentaycuatro);
+    printf("long(%lu): %ld \n", sizeof(ochou), ochou);
+    printf("long(%lu): %ld \n", sizeof(six), six);
+    printf("long(%lu): %ld \n", sizeof(utreinta), utreinta);
+    printf("long(%lu): %ld \n", sizeof(sixty), sixty);
 }
